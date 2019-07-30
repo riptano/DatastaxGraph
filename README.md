@@ -1,4 +1,4 @@
-# Neo4j
+# DSE Graph
 Plugin to enable Neo4j graph database as a target in Hackolade data modeling.
 
 <div class="main-content">
